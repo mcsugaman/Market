@@ -1,0 +1,184 @@
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+C:\Users\david\documents\visual studio 2015\Projects\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\classes\hero.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\mock-heroes.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero.service.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\databinding.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\click-me2.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\forms\hero-form.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\databinding\hero-list.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\new-hero.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\hero-detail.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\my-app.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\tutorial\dashboard.component.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app-routing.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\app.module.js.map
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js
+E:\TestAngular2Core2\src\TestAngular2Core2\app\main.js.map

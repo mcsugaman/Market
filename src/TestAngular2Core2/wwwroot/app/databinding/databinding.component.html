@@ -1,0 +1,14 @@
+<h1>{{title}}</h1>
+
+<ul>
+    <li *ngFor="let hero of heroes">
+        to je ta {{hero.name}}
+    </li>
+</ul>
+
+<p> najjaci hero je {{myHero.name}} </p>
+<p *ngIf="heroes.length > 2">Lots of heroes here!!!</p>
+
+<dj-click-me></dj-click-me>
+
+<dj-click-me2></dj-click-me2>
